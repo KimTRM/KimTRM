@@ -16,15 +16,6 @@ I'm a **passionate developer, designer, and creator**. I love blending technolog
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-
-## 🌟 Projects
-- **[Project 100](https://github.com/KimTRM/Project100)** – Educational RPG teaching programming fundamentals.  
-- **USG Website** – Full-stack web project for university student government.  
-- **Handy Janny** – Django backend API for a global talent marketplace.  
-- **KnowledgeSweeper** – Java-based quiz game with timers and interactive learning.
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimlabrador/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimlabrador71@gmail.com)  
