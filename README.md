@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kim Louise T. Labrador
 
-I'm a **passionate developer, designer, and creator**. I love blending technology and creativity to build games, apps, and interactive experiences. Currently studying **BS Computer Science** and running my indie studio **KLTL Studios**.  
+I’m a BS Computer Science student with a passion for building things, whether that’s a game, a website, or a simple tool that makes life easier. I enjoy mixing creativity with tech, and most of my projects combine programming, design, and storytelling. I’m always learning, experimenting, and looking for ways to grow both as a developer and as an artist.
 
 ---
 
