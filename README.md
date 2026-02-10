@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Kim Louise T. Labrador
+<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/fbd40f5b-66c3-4415-9cb0-312a25c3fa09" />
+
+# Hi, I'm Kim Louise T. Labrador
 
 💡 **Developer | Designer | Creator**  
 I’m a **BS Computer Science student** passionate about building things that matter—games, websites, apps, and tools that combine **creativity, logic, and storytelling**. I love experimenting, learning new technologies, and turning ideas into projects that teach, inspire, or solve real problems.  
@@ -35,7 +37,8 @@ I’m a **BS Computer Science student** passionate about building things that ma
 ---
 
 ## 🌟 Notable Projects
-- **[USG Website](https://github.com/j-port/UNC-University-Student-Government)** – Full-stack web system for university student government.
+- **[USG Website](https://github.com/BlckInfa/UNC-USG-Tinig-Dinig-Website)** – Static web system for university student government.
+- **[USG Website Prototype](https://github.com/j-port/UNC-University-Student-Government)** – Full-stack web system for university student government.
 - **[Bagani: Guardians of the Archipelago](https://github.com/KimTRM/Bagani-Guardians-of-the-Archipelago)** – An interactive game project combining Filipino culture, strategy, and storytelling.  
 - **[KnowledgeSweeper](https://github.com/KimTRM/KnowledgeSweeper)** – Java quiz game with timers, logic challenges, and interactive learning.  
 - **[Project 100](https://github.com/KimTRM/Project100)** – Story-driven RPG teaching programming fundamentals.  
