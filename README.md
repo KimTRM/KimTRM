@@ -37,8 +37,7 @@ I’m a **BS Computer Science student** passionate about building things that ma
 ---
 
 ## 🌟 Notable Projects
-- **[USG Website](https://github.com/BlckInfa/UNC-USG-Tinig-Dinig-Website)** – Static web system for university student government.
-- **[USG Website Prototype](https://github.com/j-port/UNC-University-Student-Government)** – Full-stack web system for university student government.
+- **[USG Website](https://www.unc-usg.com)** – Static web system for university student government.
 - **[Bagani: Guardians of the Archipelago](https://github.com/KimTRM/Bagani-Guardians-of-the-Archipelago)** – An interactive game project combining Filipino culture, strategy, and storytelling.  
 - **[KnowledgeSweeper](https://github.com/KimTRM/KnowledgeSweeper)** – Java quiz game with timers, logic challenges, and interactive learning.  
 - **[Project 100](https://github.com/KimTRM/Project100)** – Story-driven RPG teaching programming fundamentals.  
